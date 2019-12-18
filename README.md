@@ -17,9 +17,9 @@ You'll be all setup now.
 
 ## Instructions
 
-Go into the folders to find the instructions for each test.  At the time of writing, there are currently only
+Go into the folders to find the instructions for each test.  At the time of writing, there are currently
 
-> 1 test(s)
+> 2 test(s)
 
 
 

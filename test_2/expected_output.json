@@ -1,0 +1,14 @@
+[
+  {
+    "first_name": "Homer",
+    "last_name": "Simpson",
+    "catchphrase": "Doh!",
+    "example": "Homer Simpson says Doh!"
+  },
+  {
+    "first_name": "Bart",
+    "last_name": "Simpson",
+    "catchphrase": "Ay Carumba",
+    "example": "Bart Simpson says Ay Carumba"
+  }
+]
