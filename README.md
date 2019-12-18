@@ -10,8 +10,7 @@ If you're not a candidate and have just stumbled onto this page then you're awes
 
 The assessment requires NodeJS to be installed in your dev environment. If you do not have NodeJS installed we suggest using [nvm](https://github.com/nvm-sh/nvm) to install the latest version.
 
-1. Fork this repo
-2. Clone this repo to your local environment 
+1. Fork and clone this repo
 3. Run `npm install` to install the dependencies
 
 You'll be all setup now.
