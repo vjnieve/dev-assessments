@@ -2,7 +2,7 @@
 
 Congratulations!
 
-If you've made it this far then you're an awesome candidate. The next step is for you to complete an assessment of your technical abilities. The assessment only requires basic JavaScript knowledge and can be completed in 30 minutes or less. The intention is for you to submit the code prior to your in-person interview where we'll do a mini code review with you. It's an opportunity for you to assess how we collabrate as a dev team as well.
+If you've made it this far then you're an awesome candidate. The next step is for you to complete an assessment of your technical abilities. The assessment only requires basic JavaScript knowledge and can be completed in around 30 minutes to an hour. The intention is for you to submit the code prior to your in-person interview where we'll do a mini code review with you. It's an opportunity for you to assess how we collabrate as a dev team as well.
 
 If you're not a candidate and have just stumbled onto this page then you're awesome too. Give these tests a try for fun (if you're into that sort of thing).
 
