@@ -63,5 +63,5 @@ $: ../node_modules/.bin/mocha index.spec.js
 ## Hints and notes to help you out
 
 - Don't know how to load JSON files? Google is a <i>require</i>-ment =)
-- Lookup the different ways of iterating through an Array
+- Lookup the different ways of iterating through an Array using JavaScript
 
