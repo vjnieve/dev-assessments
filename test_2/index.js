@@ -1,4 +1,5 @@
 "use strict";
+const test_data = require("./test_data.json");
 
 /**
  * The `test_data.json` contains an object array of "The Simpsons" characters and their catchphrase. This function
@@ -13,6 +14,16 @@
  */
 module.exports = function test2() {
   let results;
+
+  results = test_data
+    .filter(function (value) {
+      return value.last_name === "Simpson";
+    })
+    .map(function (value) {
+      const example = `${value.first_name} ${value.last_name} says ${value.catchphrase}`;
+      //value.example = example -> another way to add a new property
+      return { ...value, example };
+    });
 
   // Write your code here.  The pre-written lines above and below are just suggestions, feel free to delete
   // them and start fresh.
